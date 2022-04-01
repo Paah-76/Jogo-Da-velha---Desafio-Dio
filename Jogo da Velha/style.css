@@ -1,0 +1,33 @@
+body {
+    background-image: url(arquivos/bck02.jpg);
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+    color: white;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 60px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: purple;
+    width: 100px;
+    height: 30px;
+    color: #eee;
+    cursor: pointer;
+}
