@@ -11,4 +11,6 @@ https://user-images.githubusercontent.com/80291333/161316370-ca951a39-e671-4cd5-
 
 fiz algumas modificações o resultado final ficou assim:
 
-![image](https://user-images.githubusercontent.com/80291333/161316523-da434662-c081-46c4-8eea-b2f10de694a3.png)
+![image](https://user-images.githubusercontent.com/80291333/161318067-f0cbd431-3e46-43b9-b9e5-1711524166c6.png)
+
+O desing não ficou muito bom rs, mas esse foi o meu toque nesse desafio.
