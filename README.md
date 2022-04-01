@@ -1,4 +1,4 @@
-# Jogo-Da-velha---Desafio-Dio
+# Jogo-Da-velha -> Desafio-Dio
 Bootcamp - Orbi Web Games , O desafio consiste em criar um jogo da velha.
 
 
